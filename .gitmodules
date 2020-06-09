@@ -1,2 +1,4 @@
 [submodule "frontend-released-videogame-consoles"]
 	url = https://github.com/YasminLuzia/frontend-released-videogame-consoles.git
+[submodule "back-released-videogame-consoles"]
+	url = https://github.com/YasminLuzia/ProjectsWeb
